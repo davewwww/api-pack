@@ -5,7 +5,7 @@
     "description": "A API pack for Symfony projects",
     "require": {
         "symfony/orm-pack": "*",        
-        "serializer": "*",
+        "symfony/serializer": "*",
         "security": "*",
         "validator": "*",
         "nelmio/cors-bundle": "*",
