@@ -10,7 +10,7 @@
         "validator": "*",
         "nelmio/cors-bundle": "*",
         "sensio/framework-extra-bundle": "*",
-        "symfony-bundles/json-request-bundle": "*",
+        "symfony-bundles/json-request-bundle": "*"
     },    
     "require-dev": {
         "symfony/maker-bundle": "*",
