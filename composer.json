@@ -4,6 +4,6 @@
     "license": "MIT",
     "description": "A API pack for Symfony projects",
     "require": {
-        "orm-pack": "*"
+        "symfony/orm-pack": "*"
     }
 }
